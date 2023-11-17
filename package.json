@@ -9,6 +9,6 @@
     "new": "npx zenn new:article"
   },
   "dependencies": {
-    "zenn-cli": "^0.1.149"
+    "zenn-cli": "0.1.149"
   }
 }
