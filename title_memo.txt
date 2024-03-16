@@ -1,0 +1,27 @@
+"PRで変更したファイルの影響範囲を可視化する"
+title: "環境構築に苦労したので、書いた項目をメモする"
+title: 'Typescript snippets'
+
+## 定数
+
+関連性のある定数を参照可能かつ漏れなく操作可能にしたい。
+
+### as const [number] パターン
+
+const JA = 'JA' as const;
+const EN = 'EN' as const;
+type Language = typeof LANGUAGES[number];
+
+
+
+title: "意思決定記録システム"
+
+title: "ESLintに合わせてPrettierを設定したい"
+
+title: "フロントエンドエラー監視ツールを比較する(Sentry)"
+
+title: "ReactでIconを表示するいくつかの方法とそれらのサンプル"
+
+title: 'ビジネスロジックをDomain化'
+
+title: "NuxtにSentryを導入する"
